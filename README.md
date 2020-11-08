@@ -56,4 +56,4 @@ For more example codes, please go to the `example` folder
 Please file feature requests and bugs at the [issue tracker][tracker].
 
 [js_repo]: https://github.com/mumuy/relationship
-[tracker]: https://github.com/yeliulee/kinship_calculator_dart//issues
+[tracker]: https://github.com/yeliulee/kinship_calculator_dart/issues
